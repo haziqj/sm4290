@@ -7,7 +7,7 @@ UBD 2019S1 batch (Statistics group).
 - Format: 20 minute slots (10min presentation, 10min Q&A)
 - Online Zoom meeting (link will be sent shortly)
 
-**Please logon as early as 0845. We will start at 0900 sharp.**
+** ***Please logon as early as 0845. We will start at 0900 sharp.*** **
 
 ## Schedule
 
@@ -20,7 +20,7 @@ UBD 2019S1 batch (Statistics group).
 | 4 | 1020-1040 | 16B2153 Siti Nurfarhana      | The statistical investigation on the possible factors of crime in London boroughs |
 | 5 | 1045-1105 | 16B2187 Mohammad Izzul Islam |                                                                                   |
 | 6 | 1110-1130 | 16B2070 Md Nur Waizudin      | Bayesian variable selection for linear models                                     |
-| 7 | 1135-1155 | 16B2092 Ida Haizatultasha    |                                                                                   |                                                                                |
+| 7 | 1135-1155 | 16B2092 Ida Haizatultasha    |                                                                                   |
 
 ## Instructions to students
 
