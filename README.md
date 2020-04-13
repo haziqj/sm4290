@@ -39,7 +39,7 @@ UBD 2019S1 batch (Statistics group).
 - Ensure that you presentation is cohesive: there should be a beginning, a middle and an end.
 - Tell the audience a story: what is the research problem, what have you done, and what have you found out?
 - **Practice, practice, practice!** Public speaking may not come naturally to everyone, so it really helps if you practice beforehand. This way you can time your presentation accordingly and make adjustments if necessary, too.
-- Plan what you want to say during the presentation. It's a bad habit to just read off the presentation slides.
+- Supplement your slides with appropriate graphics/tables and plan what you want to say during the presentation. It's a bad habit to just read off the presentation slides. 
 - Do not panic. You are in a safe environment. No one will make fun of you if you accidentally slip up! 
 - Speak clearly and at a normal pace.
 - Anticipate what questions might be asked of your presentation so you can be prepared.
