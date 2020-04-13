@@ -11,10 +11,10 @@ UBD 2019S1 batch (Statistics group).
 
 ## Schedule
 
-| ﻿Ser. | Time slot | Presenter                    | Topic                                                                             |
+| ﻿Ser. | Time slot | Presenter                 | Topic                                                                             |
 |---|-----------|------------------------------|-----------------------------------------------------------------------------------|
 |   | 0845-0900 |                              | Admin                                                                             |
-| 1 | 0900-0920 | 16B2199 Al Muizz             |                                                                                   |
+| 1 | 0900-0920 | 16B2199 Al Muizz             | The statistical analysis on unemployment in Brunei                                |
 | 2 | 0925-0945 | 16B2068 Nurhafizah           | Statistical analysis on UBD dormitory students' academic performance              |
 | 3 | 0950-1015 | 16B2181 Rossmadalina         |                                                                                   |
 | 4 | 1020-1040 | 16B2153 Siti Nurfarhana      | The statistical investigation on the possible factors of crime in London boroughs |
