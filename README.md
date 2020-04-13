@@ -18,3 +18,11 @@ UBD 2019S1 batch.
 | 5      | 1045-1105 | Akira Student 3         |                                                                                   |
 | 6      | 1110-1130 | 16B2153 Siti Nurfarhana | The statistical investigation on the possible factors of crime in London boroughs |
 | 7      | 1135-1155 | Akira Student 4         |                                                                                   |
+
+## Instructions to students
+
+- Please ensure that you have good internet connectivity and a quiet space to do the presentations.
+- Prepare your powerpoint / PDF slides that you are presenting. The host will give you presenter access so you can share your slides with everyone. If you have not used Zoom before, then please practice it beforehand (with your friends, perhaps).
+- Please join the Zoom meeting at least **one slot** before your scheduled slot.
+- You do not have to use the camera, but it would be nice if you did. It would be nice to see a human face while the presentation is going on!
+- You are encouraged to sit in for your friends' presentations. It's a good opportunity to learn about each other's topics and also presentation skills. Plus, you should give each other encouragement to do public speaking.
