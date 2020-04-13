@@ -9,7 +9,7 @@ UBD 2019S1 batch.
 
 ## Speakers
 
-| Serial | Time slot | Student                 | Topic                                                                             |
+| Ser. | Time slot | Student                 | Topic                                                                             |
 |--------|-----------|-------------------------|-----------------------------------------------------------------------------------|
 | 1      | 0900-0920 | 16B2070 Md Nur Waizudin | Bayesian variable selection for linear models                                     |
 | 2      | 0925-0945 | Akira Student 1         |                                                                                   |
