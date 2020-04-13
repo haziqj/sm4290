@@ -33,6 +33,19 @@ UBD 2019S1 batch (Statistics group).
 - You do not have to use the camera, but it would be better if you did. It would be nice to see a human face while the presentation is going on!
 - You may leave the meeting when you are done, but *you are encouraged to sit in for your friends' presentations*. It's a good opportunity to learn about each other's topics and also presentation skills. Plus, you should give each other encouragement to do public speaking.
 
+## Advice to students
+
+- Condensing two semesters worth of work into 10 minutes can be challenging. Choose only the most important and noteworth results to share.
+- Ensure that you presentation is cohesive: there should be a beginning, a middle and an end.
+- Tell the audience a story: what is the research problem, what have you done, and what have you found out?
+- **Practice, practice, practice!** Public speaking may not come naturally to everyone, so it really helps if you practice beforehand. This way you can time your presentation accordingly and make adjustments if necessary, too.
+- Plan what you want to say during the presentation. It's a bad habit to just read off the presentation slides.
+- Do not panic. You are in a safe environment. No one will make fun of you if you accidentally slip up! 
+- Speak clearly and at a normal pace.
+- Anticipate what questions might be asked of your presentation so you can be prepared.
+- Have fun, and don't forget to smile!
+
+
 ## Random arrangements of students
 
 To ensure fairness, the order in which you are presenting has been randomised.
