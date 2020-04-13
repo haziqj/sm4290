@@ -11,9 +11,9 @@ UBD 2019S1 batch (Statistics group).
 
 ## Schedule
 
-| ﻿  | Time slot | Student                      | Topic                                                                             |
+| ﻿Ser. | Time slot | Presenter                    | Topic                                                                             |
 |---|-----------|------------------------------|-----------------------------------------------------------------------------------|
-| 0 | 0845-0900 | Admin                        |                                                                                   |
+|   | 0845-0900 |                              | Admin                                                                             |
 | 1 | 0900-0920 | 16B2199 Al Muizz             |                                                                                   |
 | 2 | 0925-0945 | 16B2068 Nurhafizah           | Statistical analysis on UBD dormitory students' academic performance              |
 | 3 | 0950-1015 | 16B2181 Rossmadalina         |                                                                                   |
@@ -29,8 +29,8 @@ UBD 2019S1 batch (Statistics group).
 - Importantly, make sure your microphone is working. If possible, use a headset. Again, test this before joining the Zoom meeting.
 - Please join the Zoom meeting at least **one slot** before your scheduled slot.
 - Please use the naming format `<STUDENT ID> <FIRST NAME>` for your name when you join the Zoom meeting.
-- You do not have to use the camera, but it would be nice if you did. It would be nice to see a human face while the presentation is going on!
-- You are encouraged to sit in for your friends' presentations. It's a good opportunity to learn about each other's topics and also presentation skills. Plus, you should give each other encouragement to do public speaking.
+- You do not have to use the camera, but it would be better if you did. It would be nice to see a human face while the presentation is going on!
+- You may leave the meeting when you are done, but *you are encouraged to sit in for your friends' presentations*. It's a good opportunity to learn about each other's topics and also presentation skills. Plus, you should give each other encouragement to do public speaking.
 
 ## Random arrangements of students
 
