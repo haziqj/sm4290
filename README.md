@@ -16,11 +16,11 @@ UBD 2019S1 batch (Statistics group).
 |   | 0845-0900 |                              | Admin                                                                             |
 | 1 | 0900-0920 | 16B2199 Al Muizz             | The statistical analysis on unemployment in Brunei                                |
 | 2 | 0925-0945 | 16B2068 Nurhafizah           | Statistical analysis on UBD dormitory students' academic performance              |
-| 3 | 0950-1015 | 16B2181 Rossmadalina         |                                                                                   |
+| 3 | 0950-1015 | 16B2181 Rossmadalina         | Allelopathic potential of invasive *Acacia holosericea* on germination and growth of Bario and Laila paddy |
 | 4 | 1020-1040 | 16B2153 Siti Nurfarhana      | The statistical investigation on the possible factors of crime in London boroughs |
-| 5 | 1045-1105 | 16B2187 Mohammad Izzul Islam |                                                                                   |
+| 5 | 1045-1105 | 16B2187 Mohammad Izzul Islam | Statistical analysis on drug abuse in Brunei Darussalam                           |
 | 6 | 1110-1130 | 16B2070 Md Nur Waizudin      | Bayesian variable selection for linear models                                     |
-| 7 | 1135-1155 | 16B2092 Ida Haizatultasha    |                                                                                   |
+| 7 | 1135-1155 | 16B2092 Ida Haizatultasha    | Crime and the factors affecting it in Brunei Darussalam                           |
 
 ## Instructions to students
 
