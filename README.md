@@ -9,6 +9,11 @@ UBD 2019S1 batch (Statistics group).
 
 ** ***Please logon as early as 0845. We will start at 0900 sharp.*** **
 
+![](imagine.png)
+
+*18/4/2020* Imagine (TelBru) customers are experiencing degradation in service quality. Hopefully this goes away by Monday. My tests just now show that Zoom meetings, albeit slow to connect at first, runs fine. To be safe, I will turn on 'cloud recording' so we can recap the talks at a later time if necessary.
+
+
 ## Schedule
 
 | ﻿Ser. | Time slot | Presenter                 | Topic                                                                             |
