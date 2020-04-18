@@ -35,9 +35,9 @@ UBD 2019S1 batch (Statistics group).
 
 ## Advice to students
 
-- Condensing two semesters worth of work into 10 minutes can be challenging. Choose only the most important and noteworth results to share.
-- Ensure that you presentation is cohesive: there should be a beginning, a middle and an end.
-- Tell the audience a story: what is the research problem, what have you done, and what have you found out?
+- Condensing two semesters worth of work into 10 minutes can be challenging. Choose only the most important and noteworthy results to share.
+- Ensure that you presentation is cohesive: there should be a beginning, a middle and an end which all flows together nicely.
+- If you're struggling what to talk about, just picture telling the audience a story: what is the research problem, what have you done, and what have you found out?
 - **Practice, practice, practice!** Public speaking may not come naturally to everyone, so it really helps if you practice beforehand. This way you can time your presentation accordingly and make adjustments if necessary, too.
 - Supplement your slides with appropriate graphics/tables and plan what you want to say during the presentation. It's a bad habit to just read off the presentation slides. 
 - Do not panic. You are in a safe environment. No one will make fun of you if you accidentally slip up! 
