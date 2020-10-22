@@ -2,7 +2,7 @@
 
 UBD Maths majors who started their final year project in 2019S2 (Statistics group). 
 
-- Date: Monday 20/4/2020 
+- Date: Monday 23/11/2020 
 - Time: 9.00am-11.30am
 - Format: 20 minute slots (10min presentation, 10min Q&A)
 - Venue: [TBC] *one of the tutorial rooms in FOS*
