@@ -24,6 +24,7 @@ UBD Maths majors who started their final year project in 2019S2 (Statistics grou
 - Please arrive early. We shall start at 0900 sharp. 
 - We will be using one laptop (Apple MacBook) which will already be connected to the projector. Therefore, you may either a) e-mail your slides to me **the night before** the presentation day and I will prepare the files in a folder on the Desktop; or b) bring your own pendrive with the slides loaded on it. <u>We want to ensure a smooth transition between speakers.</u>
 - You may use MS PowerPoint, Apple Keynote, PDF or HTML format for your slides.
+- Please kindly ensure that your talk will be at most 10 minutes in length. The talks will be moderated and you may be asked to stop prematurely if you exceed the given time.
 - The audience will be Drs. Haziq and Akira, plus some other academic staff, and other maths coursemates. 
 
 > We hope to see everyone there at 0900, regardless of what time slot your presentation is at. *You are encouraged to sit in for the entire duration of the presentations.* It's a good opportunity to learn about each other's topics and also presentation skills. Plus, you should give each other encouragement to do public speaking.
