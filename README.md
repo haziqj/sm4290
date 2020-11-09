@@ -12,12 +12,12 @@ UBD Maths majors who started their final year project in 2019S2 (Statistics grou
 | ﻿Ser. | Time slot | Presenter                 | Topic                                                                             |
 |---|-----------|------------------------------|-----------------------------------------------------------------------------------|
 |   | 0845-0900 |                              | Admin                                                                             |
-| 1 | 0900-0920 | 16B9065 Nor Hanisah          | TBC                                |
-| 2 | 0925-0945 | 16B9066 Nursyazwani          | Analysis on Cardiac Arrhythmia              |
+| 1 | 0900-0920 | 16B9065 Nor Hanisah          | Analysis on life expectancy                                |
+| 2 | 0925-0945 | 16B9066 Nursyazwani          | Analysis on cardiac arrhythmia              |
 | 3 | 0950-1010 | 16B9002 Siti Nur Afiqah      | Analyzing the severity of road traffic accident in Toronto, Canada |
-| 4 | 1015-1035 | 16B9028 Azamuddin      | The Mathematics of Monopoly  |
-| 5 | 1040-1100 | 16B9049 Mohd Ameer Ariffin | TBC                          |
-| 6 | 1105-1125 | 16B9034 Sabrina      | Which Method Predicts Recidivism Best: Comparing Statistical, Machine Learning and Data Mining Predictive Model                                     |
+| 4 | 1015-1035 | 16B9028 Azamuddin      | The mathematics of Monopoly  |
+| 5 | 1040-1100 | 16B9049 Mohd Ameer Ariffin | Factors affecting global suicide rate                          |
+| 6 | 1105-1125 | 16B9034 Sabrina      | Which method predicts recidivism best: Comparing statistical, machine learning and data mining predictive model                                     |
 
 ## Instructions to students
 
