@@ -2,32 +2,40 @@
 
 UBD Maths majors who started their final year project in 2019S2 (Statistics group). 
 
-- Date: Monday 23/11/2020 
-- Time: 9.00am-11.30am
+- Date: Monday 26/04/2021
+- Time: 9.00am-2.30pm
 - Format: 20 minute slots (10min presentation, 10min Q&A)
-- Venue: FSM 2.19
+- Venue: FSM 2.17
 
 ## Schedule
 
 | ﻿Ser. | Time slot | Presenter                 | Topic                                                                             |
 |---|-----------|------------------------------|-----------------------------------------------------------------------------------|
-|   | 0845-0900 |                              | Admin                                                                             |
-| 1 | 0900-0920 | 16B9065 Nor Hanisah          | Analysis on life expectancy                                |
-| 2 | 0925-0945 | 16B9066 Nursyazwani          | Analysis on cardiac arrhythmia              |
-| 3 | 0950-1010 | 16B9002 Siti Nur Afiqah      | Analyzing the severity of road traffic accident in Toronto, Canada |
-| 4 | 1015-1035 | 16B9028 Azamuddin      | The mathematics of Monopoly  |
-| 5 | 1040-1100 | 16B9049 Mohd Ameer Ariffin | Factors affecting global suicide rate                          |
-| 6 | 1105-1125 | 16B9034 Sabrina      | Which method predicts recidivism best: Comparing statistical, machine learning and data mining predictive model                                     |
+|   | 0830-0835 |                              | Admin
+| 1 | 0835-0855 | 17B3030 Md Azim                 |                                                                              |
+| 2 | 0900-0920 | 17B2137 Aqilah               | Violations of assumptions of ANOVA                              |
+| 3 | 0925-0945 | 17B2200 Afrina Az-Zahra      |               |
+| 4 | 0950-1010 | 17B2153 Naqibah      | Discovering demand trends in an online microfinance platform: Statistical analysis on Kiva |
+| 5 | 1015-1035 | 17B2053 Izzati      | Simulation study on the power of the statistical hypothesis tests for two samples  |
+| 6 | 1040-1100 | 17B2148 Md Dzaifakhree  |                          |
+| 7 | 1105-1125 | 17B3029 Aida      | Investigating UBD students' confidence of hypothesis test concepts |
+| 8 | 1130-1150 | 17B2186 Atikah      | A quantitative text analysis of Brunei's legislative council (LegCo) meeting speeches |
+|   | 1150-1300 |        | Break |
+| 9 | 1300-1320 | 16B2079 Amal Nadiah       | |
+| 10 | 1325-1345 | 15B8690 Md Abd Azim        | |
+| 11 | 1350-1410 | 17B2200 Abdul Wafi       | |
+
+
 
 ## Instructions to students
 
-- Please arrive early. We shall start at 0900 sharp. 
+- Please arrive early. We shall start at 0830 sharp. 
 - We will be using one laptop (Apple MacBook) which will already be connected to the projector. Therefore, you may either a) e-mail your slides to me **the night before** the presentation day and I will prepare the files in a folder on the Desktop; or b) bring your own pendrive with the slides loaded on it. <u>We want to ensure a smooth transition between speakers.</u>
 - You may use MS PowerPoint, Apple Keynote, PDF or HTML format for your slides.
 - Please kindly ensure that your talk will be at most 10 minutes in length. The talks will be moderated and you may be asked to stop prematurely if you exceed the given time.
 - The audience will be Drs. Haziq and Akira, plus some other academic staff, and other maths coursemates. 
 
-> We hope to see everyone there at 0900, regardless of what time slot your presentation is at. *You are encouraged to sit in for the entire duration of the presentations.* It's a good opportunity to learn about each other's topics and also presentation skills. Plus, you should give each other encouragement to do public speaking.
+<!-- > We hope to see everyone there at 0900, regardless of what time slot your presentation is at. *You are encouraged to sit in for the entire duration of the presentations.* It's a good opportunity to learn about each other's topics and also presentation skills. Plus, you should give each other encouragement to do public speaking. -->
 
 <!-- - Please ensure that you have good internet connectivity and a quiet space to do the presentations.
 - It is recommended that you use a computer/laptop to join the meeting.
@@ -51,7 +59,7 @@ UBD Maths majors who started their final year project in 2019S2 (Statistics grou
 - Anticipate what questions might be asked of your presentation so you can be prepared.
 - Have fun, and don't forget to smile!
 
-## Random arrangements of students
+<!-- ## Random arrangements of students
 
 To ensure fairness, the order in which you are presenting has been randomised.
 
@@ -68,3 +76,4 @@ c(sapply(seq_len(4), function(i) append(
 ```
 
 Run this code in R for yourself 😀
+ -->
