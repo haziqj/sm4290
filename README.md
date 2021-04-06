@@ -1,9 +1,9 @@
 # SM-4290 Research Project Presentations
 
-UBD Maths majors who started their final year project in 2019S2 (Statistics group). 
+UBD Maths majors who started their final year project in 2020S1 (Statistics group). 
 
 - Date: Monday 26/04/2021
-- Time: 9.00am-2.30pm
+- Time: 8.30am-2.30pm
 - Format: 20 minute slots (10min presentation, 10min Q&A)
 - Venue: FSM 2.17
 
