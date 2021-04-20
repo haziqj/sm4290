@@ -14,7 +14,7 @@ UBD Maths majors who started their final year project in 2020S1 (Statistics grou
 |   | 0830-0835 |                              | Admin
 | 1 | 0835-0855 | 17B3030 Md Azim                 |                                                                              |
 | 2 | 0900-0920 | 17B2137 Aqilah               | Violations of assumptions of ANOVA                              |
-| 3 | 0925-0945 | 17B2200 Afrina Az-Zahra      |               |
+| 3 | 0925-0945 | 17B2200 Afrina Az-Zahra      | Determining success based on the player performances at FIFA World Cup              |
 | 4 | 0950-1010 | 17B2153 Naqibah      | Discovering demand trends in an online microfinance platform: Statistical analysis on Kiva |
 | 5 | 1015-1035 | 17B2053 Izzati      | Simulation study on the power of the statistical hypothesis tests for two samples  |
 | 6 | 1040-1100 | 17B2148 Md Dzaifakhree  |                          |
