@@ -12,18 +12,15 @@ UBD Maths majors who started their final year project in 2020S1 (Statistics grou
 | ﻿Ser. | Time slot | Presenter                 | Topic                                                                             |
 |---|-----------|------------------------------|-----------------------------------------------------------------------------------|
 |   | 0830-0835 |                              | Admin
-| 1 | 0835-0855 | 17B3030 Md Azim                 |                                                                              |
+| 1 | 0835-0855 | 17B3030 Md Azim                 | Analysis of the payoffs from trading algorithms under the geometric Brownian motion stock price model   |
 | 2 | 0900-0920 | 17B2137 Aqilah               | Violations of assumptions of ANOVA                              |
 | 3 | 0925-0945 | 17B2200 Afrina Az-Zahra      | Determining success based on the player performances at FIFA World Cup              |
 | 4 | 0950-1010 | 17B2153 Naqibah      | Discovering demand trends in an online microfinance platform: Statistical analysis on Kiva |
 | 5 | 1015-1035 | 17B2053 Izzati      | Simulation study on the power of the statistical hypothesis tests for two samples  |
-| 6 | 1040-1100 | 17B2148 Md Dzaifakhree  |                          |
+| 6 | 1040-1100 | 17B2148 Md Dzaifakhree  | Artificial Neural Network based Trading Strategy |
 | 7 | 1105-1125 | 17B3029 Aida      | Investigating UBD students' confidence of hypothesis test concepts |
 | 8 | 1130-1150 | 17B2186 Atikah      | A quantitative text analysis of Brunei's legislative council (LegCo) meeting speeches |
-|   | 1150-1300 |        | Break |
-| 9 | 1300-1320 | 16B2079 Amal Nadiah       | |
-| 10 | 1325-1345 | 15B8690 Md Abd Azim        | |
-| 11 | 1350-1410 | 17B2200 Abdul Wafi       | |
+| 9 | 1155-1215 | 15B8690 Md Abd Azim        | Evaluation of algorithmic trading strategies on the foreign exchange market |
 
 
 
